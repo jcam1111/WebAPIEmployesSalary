@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\WebAPIEmployesSalary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B95A2D74-41C8-4B31-A3EF-4B9BD4E1C719}|WebAPIEmployesSalary.csproj|c:\\users\\user\\source\\repos\\webapiemployessalary\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B95A2D74-41C8-4B31-A3EF-4B9BD4E1C719}|WebAPIEmployesSalary.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B5F8126-A5B2-408C-8717-FB9BC83216F1}|..\\WebAPIEmployesSalaryTests\\WebAPIEmployesSalaryTests.csproj|c:\\users\\user\\source\\repos\\webapiemployessalarytests\\controllers\\employcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95A2D74-41C8-4B31-A3EF-4B9BD4E1C719}|WebAPIEmployesSalary.csproj|c:\\users\\user\\source\\repos\\webapiemployessalary\\controllers\\employcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95A2D74-41C8-4B31-A3EF-4B9BD4E1C719}|WebAPIEmployesSalary.csproj|solutionrelative:controllers\\employcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADBFEDB-866E-4BC3-9D41-77909D0DC87E}|..\\WebAPIEmployesSalary.Services\\WebAPIEmployesSalary.Services.csproj|c:\\users\\user\\source\\repos\\webapiemployessalary.services\\employeeapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95A2D74-41C8-4B31-A3EF-4B9BD4E1C719}|WebAPIEmployesSalary.csproj|c:\\users\\user\\source\\repos\\webapiemployessalary\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95A2D74-41C8-4B31-A3EF-4B9BD4E1C719}|WebAPIEmployesSalary.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95A2D74-41C8-4B31-A3EF-4B9BD4E1C719}|WebAPIEmployesSalary.csproj|c:\\users\\user\\source\\repos\\webapiemployessalary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95A2D74-41C8-4B31-A3EF-4B9BD4E1C719}|WebAPIEmployesSalary.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04BD1D11-8F4A-4560-840D-8CF88B7AD8C8}|..\\WebAPIEmployesSalary.Model\\WebAPIEmployesSalary.Model.csproj|c:\\users\\user\\source\\repos\\webapiemployessalary.model\\employresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04BD1D11-8F4A-4560-840D-8CF88B7AD8C8}|..\\WebAPIEmployesSalary.Model\\WebAPIEmployesSalary.Model.csproj|c:\\users\\user\\source\\repos\\webapiemployessalary.model\\employeeannualsalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04BD1D11-8F4A-4560-840D-8CF88B7AD8C8}|..\\WebAPIEmployesSalary.Model\\WebAPIEmployesSalary.Model.csproj|c:\\users\\user\\source\\repos\\webapiemployessalary.model\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04BD1D11-8F4A-4560-840D-8CF88B7AD8C8}|..\\WebAPIEmployesSalary.Model\\WebAPIEmployesSalary.Model.csproj|c:\\users\\user\\source\\repos\\webapiemployessalary.model\\exception\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{362832A0-32E5-4E8C-AF18-7B94945A0F3D}|..\\WebAPIEmployesSalary.Bussiness\\WebAPIEmployesSalary.Bussiness.csproj|c:\\users\\user\\source\\repos\\webapiemployessalary.bussiness\\calculationsalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WebAPIEmployesSalary\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WebAPIEmployesSalary\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-22T21:07:15.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WebAPIEmployesSalary\\Controllers\\EmployController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WebAPIEmployesSalary\\Controllers\\EmployController.cs",
+              "RelativeToolTip": "Controllers\\EmployController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:25:46.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeApiService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WebAPIEmployesSalary.Services\\EmployeeApiService.cs",
+              "RelativeDocumentMoniker": "..\\WebAPIEmployesSalary.Services\\EmployeeApiService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WebAPIEmployesSalary.Services\\EmployeeApiService.cs",
+              "RelativeToolTip": "..\\WebAPIEmployesSalary.Services\\EmployeeApiService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:11:02.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WebAPIEmployesSalaryTests\\Controllers\\EmployControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\WebAPIEmployesSalaryTests\\Controllers\\EmployControllerTests.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WebAPIEmployesSalaryTests\\Controllers\\EmployControllerTests.cs",
+              "RelativeToolTip": "..\\WebAPIEmployesSalaryTests\\Controllers\\EmployControllerTests.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAA5wBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T04:18:15.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employ.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WebAPIEmployesSalary.Model\\Employ.cs",
+              "RelativeDocumentMoniker": "..\\WebAPIEmployesSalary.Model\\Employ.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WebAPIEmployesSalary.Model\\Employ.cs",
+              "RelativeToolTip": "..\\WebAPIEmployesSalary.Model\\Employ.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T16:43:21.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WebAPIEmployesSalary\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WebAPIEmployesSalary\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAmwBUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T17:06:00.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WebAPIEmployesSalary\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WebAPIEmployesSalary\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAmwA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:16:38.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeAnnualSalary.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WebAPIEmployesSalary.Model\\EmployeeAnnualSalary.cs",
+              "RelativeDocumentMoniker": "..\\WebAPIEmployesSalary.Model\\EmployeeAnnualSalary.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WebAPIEmployesSalary.Model\\EmployeeAnnualSalary.cs",
+              "RelativeToolTip": "..\\WebAPIEmployesSalary.Model\\EmployeeAnnualSalary.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:02:52.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GlobalExceptionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WebAPIEmployesSalary.Model\\Exception\\GlobalExceptionHandler.cs",
+              "RelativeDocumentMoniker": "..\\WebAPIEmployesSalary.Model\\Exception\\GlobalExceptionHandler.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WebAPIEmployesSalary.Model\\Exception\\GlobalExceptionHandler.cs",
+              "RelativeToolTip": "..\\WebAPIEmployesSalary.Model\\Exception\\GlobalExceptionHandler.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T02:58:23.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployResponse.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WebAPIEmployesSalary.Model\\EmployResponse.cs",
+              "RelativeDocumentMoniker": "..\\WebAPIEmployesSalary.Model\\EmployResponse.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WebAPIEmployesSalary.Model\\EmployResponse.cs",
+              "RelativeToolTip": "..\\WebAPIEmployesSalary.Model\\EmployResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T04:20:23.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CalculationSalary.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WebAPIEmployesSalary.Bussiness\\CalculationSalary.cs",
+              "RelativeDocumentMoniker": "..\\WebAPIEmployesSalary.Bussiness\\CalculationSalary.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WebAPIEmployesSalary.Bussiness\\CalculationSalary.cs",
+              "RelativeToolTip": "..\\WebAPIEmployesSalary.Bussiness\\CalculationSalary.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBZwA8AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T19:56:29.712Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

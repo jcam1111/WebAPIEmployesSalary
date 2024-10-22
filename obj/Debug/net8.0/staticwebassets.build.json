@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "aqeywLM94OvPvDj2cTrkK5UBmDqfMWT2RLVRsICL0fY=",
+  "Source": "WebAPIEmployesSalary",
+  "BasePath": "_content/WebAPIEmployesSalary",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
